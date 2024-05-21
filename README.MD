@@ -19,7 +19,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://copilot.microsoft.com/)
-- [ttsmker](https://ttsmaker.com/br)
+- [ttsmaker](https://ttsmaker.com/br)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
